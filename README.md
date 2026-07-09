@@ -1,11 +1,22 @@
-<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; border: 3px solid #004D98; margin-top: 20px; text-align: center; font-family: sans-serif;">
+<div style="background-color: #004D98; color: #FFFFFF; padding: 30px; border-radius: 10px; border: 5px solid #A50044; font-family: sans-serif; text-align: center;">
+
+
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" alt="Barcelona FC" width="120" style="margin-bottom: 15px;"/>
+
+
+
+  <h2 style="color: #EDBB00; margin-bottom: 10px;">Hello, My Name Is Alejandro!</h2>
+
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg" alt="Lionel Messi" style="width: 100%; max-width: 300px; border-radius: 10px; margin-bottom: 15px;"/>
-  
-  <h3 style="color: #004D98;">The GOAT: Lionel Messi</h3>
-  
-  <p style="font-size: 1.1em; color: #333; line-height: 1.6;">
-    Lionel Messi is widely considered one of the greatest players of all time. During his legendary tenure at Barcelona FC, he redefined the sport with his incredible dribbling, vision, and record-breaking goal-scoring abilities. His legacy at the club includes numerous Ballon d'Or titles and European Golden Shoes, cementing his status as a true icon of the game.
+
+  <p style="font-size: 1.2em; line-height: 1.5; color: #FFFFFF;">
+
+    I really like to play video games and see or play soccer. What I really like about Barcelona FC was Messi in it because it makes it more exciting by winning alot on the past years and I remembered that he win alot of Balon D Oro and Boots by being the best player in dribbling and making great goles.    My favorite team is <strong>Barcelona FC</strong>! ⚽🎮
+
   </p>
-  
+
+
+
 </div>
+
