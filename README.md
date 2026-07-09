@@ -7,8 +7,7 @@
   <h2 style="color: #EDBB00; margin-bottom: 10px;">Hello, My Name Is Alejandro!</h2>
   
   <p style="font-size: 1.2em; line-height: 1.5; color: #FFFFFF;">
-    I really like to play video games and see or play soccer. 
-    My favorite team is <strong>Barcelona FC</strong>! ⚽🎮
+    I really like to play video games and see or play soccer. What I really like about Barcelona FC was Messi in it because it makes it more exciting by winning alot on the past years and I remembered that he win alot of Balon D Oro and Boots by being the best player in dribbling and making great goles.    My favorite team is <strong>Barcelona FC</strong>! ⚽🎮
   </p>
 
 </div>
