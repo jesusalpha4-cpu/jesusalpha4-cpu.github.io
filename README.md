@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+# Welcome to My Profile! I am Alex👋
 
 <div style="background-color: #004D98; color: #FFFFFF; padding: 30px; border-radius: 10px; border: 5px solid #A50044; font-family: sans-serif; text-align: center;">
 
