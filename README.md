@@ -1,8 +1,14 @@
-<div style="background: linear-gradient(135deg, #004D98 50%, #A50044 50%); padding: 30px; border-radius: 15px; text-align: center; border: 5px solid #EDBB00;">
-    <h1 style="color: #FFFFFF; font-family: Arial, sans-serif; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">
-        Visca el Barça! ⚽
-    </h1>
-    <p style="color: #FFFFFF; font-family: Arial, sans-serif; font-size: 1.3em; line-height: 1.6; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.6); margin: 0;">
-        Hello My Name Is Alejandro, I really like to play Video games and See or Play Soccer My favorite Team is Barcelona Fc
-    </p>
+# Welcome to My Profile! 👋
+
+<div style="background-color: #004D98; color: #FFFFFF; padding: 30px; border-radius: 10px; border: 5px solid #A50044; font-family: sans-serif; text-align: center;">
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" alt="Barcelona FC" width="120" style="margin-bottom: 15px;"/>
+
+  <h2 style="color: #EDBB00; margin-bottom: 10px;">Hello, My Name Is Alejandro!</h2>
+  
+  <p style="font-size: 1.2em; line-height: 1.5; color: #FFFFFF;">
+    I really like to play video games and see or play soccer. 
+    My favorite team is <strong>Barcelona FC</strong>! ⚽🎮
+  </p>
+
 </div>
